@@ -7,4 +7,5 @@ We applied 4 different models -
 2. Pooled Model
 3. Fixed Entity model
 4. Random Entity model 
+
 In his model, we got rental data that was highly correlated with income per capita and we also found that population is showing any significance at a 95% confidence level. so we concluded that rental data did not affect students only the maybe omitted variables like the special status of the city, their infrastructure, Industrial growth, and much more, and these omitted variables highly related to income per capita that is why it shows a high correlation with rent.
